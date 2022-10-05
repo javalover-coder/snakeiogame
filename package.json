@@ -2,7 +2,7 @@
   "name": "snake.io-game",
   "version": "0.0.0",
   "description": "Snake.IO Game",
-  "main": "server.js",
+  "main": "app.js",
   "author": {
     "name": ""
   },
@@ -12,5 +12,8 @@
     "lodash": "^4.17.21",
     "mysql2": "^2.3.3",
     "socket.io": "^4.5.1"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
