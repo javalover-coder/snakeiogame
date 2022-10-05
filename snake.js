@@ -142,14 +142,14 @@ class Snake {
       if (err) throw err;
       if (result.length > 0) {
         if (points > result[0]["highestScore"]) {
-        sessionStorage.setItem("bestScore",result[0]["highestScore"]);
+        window.sessionStorage.setItem("bestScore",result[0]["highestScore"]);
         var sql = "UPDATE snakegame SET highestScore = ? WHERE name = ?";
         conn.query(sql, [points, nickname], function(err, result) {
             if(err) throw err;
         })
       }
       } else {
-        sessionStorage.setItem("bestScore", 0);
+        window.sessionStorage.setItem("bestScore", 0);
       }
     })
     this.tail = [];
