@@ -79,7 +79,7 @@ app.post('/game', function (req, res) {
             res.render('index.html', {error: "This name is not avalable"});
             
         } else {
-            res.render('game.html', { Nickname: name});
+            res.render('game.html', { Nickname: name, highestScore: 0});
         }
     })
 });
