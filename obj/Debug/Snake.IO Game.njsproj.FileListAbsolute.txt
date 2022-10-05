@@ -1,0 +1,6 @@
+C:\Users\LoneT\OneDrive\Desktop\SnakeGame\Snake.IO Game\Snake.IO Game\obj\Debug\Snake.IO Game.njsproj.AssemblyReference.cache
+C:\Users\LoneT\OneDrive\Desktop\SnakeGame\Snake.IO Game\Snake.IO Game\obj\Debug\Snake.IO Game.njsproj.CoreCompileInputs.cache
+C:\Users\LoneT\OneDrive\Desktop\SnakeGame\Snake.IO Game\Snake.IO Game\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\LoneT\OneDrive\Desktop\New folder (2)\SnakeGame\Snake.IO Game\Snake.IO Game\obj\Debug\Snake.IO Game.njsproj.AssemblyReference.cache
+C:\Users\LoneT\OneDrive\Desktop\New folder (2)\SnakeGame\Snake.IO Game\Snake.IO Game\obj\Debug\Snake.IO Game.njsproj.CoreCompileInputs.cache
+C:\Users\LoneT\OneDrive\Desktop\New folder (2)\SnakeGame\Snake.IO Game\Snake.IO Game\bin\Microsoft.NodejsTools.WebRole.dll
