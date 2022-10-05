@@ -3,7 +3,8 @@
 "use strict";
 
 var port = process.env.PORT || 1337;
-
+var x = 1;
+console.log(x);
 // Express & Socket.io deps
 var express = require('express');
 const app = require('express')();
