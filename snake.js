@@ -3,13 +3,20 @@
 
 const _ = require('lodash');
 var mysql = require('mysql2');
-
+/*
 var conn = mysql.createConnection({
   host: "localhost",
   user: 'root',
   password: 'iamnotarobot',
   database: 'snakeIODatabase'
 
+})
+*/
+var conn = mysql.createConnection({
+  host: 'us-cdbr-east-06.cleardb.net',
+  user: "bbd3926a1b4ae8",
+  password: 'ea809468',
+  database: 'heroku_de1070a1b06b3c7'
 })
 
 conn.connect(function(err) {
